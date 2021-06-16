@@ -43,4 +43,6 @@ Este sitio me gusta por la presentacion de proyectos audiovisuales. Te permite c
 
 Gran parte de mi inspiracion esta dada por la naturaleza y los deportes. Ya llevo un tiempo practicando actividades outdoor, y son las que me motivan a realizar los proyectos que tengo en mente. Tambien hay algunas marcas que siguen esta linea, que me dan direccion, y me hacen dar cuenta lo que puedo lograr gracias a mis conocimientos y gustos. 
 
-Resumire lo anteriormente dicho en un moodboard. 
+Resumire lo anteriormente dicho en un collage. 
+
+![Image alt text](ImagenesRM/collage.png)
