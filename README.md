@@ -8,6 +8,8 @@ Alcanzar a un publico mas amplio con mis tomas fotograficas.
 
 Actualmente utilizo las redes sociales para compartir mi trabajo. Por lo tanto, el publico puede ir desde un usuario promedio de instagram, a fotografos o compañias mas profesionales respecto al tema. El usuario medio vendria siendo alguien con interes en el rubro, pero sin tener el tamaño o la importancia de un profesional. A este usuario medio lo describire como un freelancer.
 
+![Image alt text](/imagenesRM/personas.jpg)
+
 **3. Antecedentes. Lo que ya existe parecido.**
 
 Con el boom de la tecnologia, la fotografia se pudo masificar mas y mas. Hoy en dia es muy comun ver a miles de fotografos a lo largo de todo el mundo, compartiendo sus procesos. Gracias al internet y a todo el desarrollo que existe, cada vez es mas facil crear un portafolio propio, es por esto que no me fue dificil encontrar antecedentes.
