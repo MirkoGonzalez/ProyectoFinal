@@ -8,7 +8,7 @@ Alcanzar a un publico mas amplio con mis tomas fotograficas.
 
 Actualmente utilizo las redes sociales para compartir mi trabajo. Por lo tanto, el publico puede ir desde un usuario promedio de instagram, a fotografos o compañias mas profesionales respecto al tema. El usuario medio vendria siendo alguien con interes en el rubro, pero sin tener el tamaño o la importancia de un profesional. A este usuario medio lo describire como un freelancer.
 
-![Image alt text](ProyectoFinal/imagenesRM/personas.jpg)
+![Image alt text](imagenesRM/personas.jpg)
 
 **3. Antecedentes. Lo que ya existe parecido.**
 
