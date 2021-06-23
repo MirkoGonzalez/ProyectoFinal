@@ -22,7 +22,7 @@ Les **gusta** estar informado sobre temas relacionados a la fotografia. Tambien 
 
 * **Extremo inferior**
 
-![Image alt text](ImagenesRM/prot2.jpg)
+![Image alt text](ImagenesRM/prot3.jpg)
 
 Como usuario del extremo inferior nos encontramos a la tipica persona que usa redes sociales a diario. Por lo general son estudiantes desde los 13 años hasta los 26 aproximadamente (cada día el intervalo es mas grande).
 
@@ -34,7 +34,7 @@ Pueden **hacer** de todo, como hacer nada. Las redes sociales pueden ser un brea
 
 * **Extremo Superior**
 
-![Image alt text](ImagenesRM/prot3.jpg)
+![Image alt text](ImagenesRM/prot2.jpg)
 
 Como extremo superior ya nos encontramos con gente profesional de la industria.
 
