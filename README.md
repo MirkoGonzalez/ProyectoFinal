@@ -54,48 +54,37 @@ Les **gusta** encontrar nuevos talentos o aportes para su trabajo. Les gusta el 
 
 ![Image alt text](ImagenesRM/ant1.png)
 
+Me encanta todo el proyecto que tiene Red Bull con la media y la plataforma para compartir contenido de deportes extremos. Siento que lo hace como ningun otro, y eso se ve representado en la calidad de pagina que tiene, atletas y fotografos. 
+
 * [SURFER](https://www.surfer.com/features/the-20-best-surf-photos-from-2019/)
 
 ![Image alt text](ImagenesRM/ant2.png)
+
+Surfer es un clasico para cualquier persona que sienta interes en el surf. Llevan años en la industria y siempre estan atentos con las ultimas marejadas. Esta pagina destaca por tener las mejores olas de todo el mundo.
 
 * [Jimmy Chin](https://jimmychin.com/)
 
 ![Image alt text](ImagenesRM/ant3.png)
 
+Jimmy Chin fue uno de los protagonistas en el documental *"FreeSolo"*, donde un escalador llego a la cima de "El Cap" sin cuerdas. Tiene un peso grande en la industria y su pagina demuestra la calidad de creador que es. Practica varios deportes y tiene mucho conocimiento de como lograr buenas tomas entodos estos. 
+
 * [Tommy Pierucki](https://www.pineapplesunrise.com/)
 
 ![Image alt text](ImagenesRM/ant4.png)
+
+A este fotografo lo encontre hace poco en Instagram, y tiene un estilo suave con colores agradables que no habia visto. Me encanta la armonia y la simpleza de su trabajo. 
 
 * [Ben Thouard](https://www.benthouard.com/)
 
 ![Image alt text](ImagenesRM/ant5.png)
 
+A este fotografo lo conoci en un documental hace unos años. Tiene mucho talento a la hora de tomar imagenes bajo el agua. Su trabajo es muy destacable y la presentacion de su pagina web tambien. 
+
 * [Ben Thouard](https://www.benthouard.com/)
 
-![Image alt text](ImagenesRM/ant6.png)
+![Image alt text](ImagenesRM/ant.png)
 
-Me gusta la pagina de este fotografo por como ordena su portafolio. Encuentro que a la hora de mostrar el trabajo, menos es mas. Tiene una sencilles atractiva y facil de acceder. 
-No me gusta lo vacia que esta su pagina de inicio.
 
-* [Orly Lasky](https://www.orlylasky.com/photography-portfolio)
-
-En este caso, me encanta como sus fotos principales de proyectos ocupan toda la pantalla. Ademas, al pasar el mouse por arriba de cada foto, podemos ver informacion de cada trabajo. Otro punto que destaco es el "about me", para trabajos personales, como lo es la fotografia, me parece clave presentarse.
-
-* [Jorge Ruiz Deso](https://www.jrdueso.es/)
-
-Esta pagina me llamo la atencion por como presenta el trabajo en la pagina de inicio. Pone una barra que llena casi toda la pantalla (horizontal), invitandote a clickear para ir a cada uno de sus proyectos. 
-
-* [Lisa Michelle Burns](https://www.lisamicheleburns.com/)
-
-Esta pagina tiene una estetica destacable. Cada foto combina a la perfeccion con las demas, es suave y agradable de ver. Encuentro que es un muy buen trabajo.
-
-* [Hillary O'Leary](https://www.hilaryoleary.com/)
-
-Esta pagina cautiva por como interactua con el usuario. Esta todo en el mismo sitio, esto me gusta porque da simplesa, estetica y ademas ahorra el tiempo de irse a otro sitio. 
-
-* [Skyler Knutzen](https://www.skylerknutzen.com/)
-
-Este sitio me gusta por la presentacion de proyectos audiovisuales. Te permite conocer de que es capas el profesional sin tener que hacer clicks extras. Me gusta directo al grano. 
 
 **4. Inspiracion. Referentes.** 
 
@@ -106,3 +95,4 @@ Resumire lo anteriormente dicho en un collage.
 ![Image alt text](ImagenesRM/collage.png)
 
 Todas las imagenes las tome yo. Muestran un poco lo que es mi estilo de vida, y ojala poder plasmar eso en un proyecto de pagina. 
+Como podemos ver, hay tomas de amigos practicando deporte, y tambien de naturaleza al desnudo. Quiero combinar este tipo de fotografia para crear una pagina agradable a la vista y que cree mucho engagement. 
