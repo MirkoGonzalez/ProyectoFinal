@@ -8,7 +8,44 @@ Alcanzar a un publico mas amplio con mis tomas fotograficas.
 
 Actualmente utilizo las redes sociales para compartir mi trabajo. Por lo tanto, el publico puede ir desde un usuario promedio de instagram, a fotografos o compañias mas profesionales respecto al tema. El usuario medio vendria siendo alguien con interes en el rubro, pero sin tener el tamaño o la importancia de un profesional. A este usuario medio lo describire como un freelancer.
 
-![Image alt text](ImagenesRM/personas.jpg)
+* **Usuario Medio**
+
+![Image alt text](ImagenesRM/prot1.jpg)
+
+Como el usuario medio nos encontramos con aficionados a la fotografia con presencia en redes sociales. Suelen estar en una etapa de encontrar su "camino", generalmente con 4to medio ya hecho. El rango etario puede ir desde los 18 años a los 30 en adelante.
+
+Les **gusta** estar informado sobre temas relacionados a la fotografia. Tambien les agrada subir su contenido y mostrarse al mundo como fotografos. 
+
+**Sienten** pasion, o al menos gusto, por capturar momentos y luego compartirlos.
+
+**Hacen** publicaciones relacionadas al area de la fotografia. A veces realizan tutoriales para hacer mas engagement, y tambien suelen comentar y apoyar a otros fotografos buscando que hagan lo mismo por ellos.
+
+* **Extremo inferior**
+
+![Image alt text](ImagenesRM/prot2.jpg)
+
+Como usuario del extremo inferior nos encontramos a la tipica persona que usa redes sociales a diario. Por lo general son estudiantes desde los 13 años hasta los 26 aproximadamente (cada día el intervalo es mas grande).
+
+A estas personas les **gusta** ver lo que esta pasando en su entorno. Se preocupan de lo que es tendencia y les agrada estar "al día" con los acontecimientos mas actuales.
+
+**Sienten** la necesidad de estar utilizando sus celulares gran parte del día. Se enfrentan a una enormidad de contenido casi siempre, y principalmente sienten mas satisfaccion viendo contenido "entretenido".
+
+Pueden **hacer** de todo, como hacer nada. Las redes sociales pueden ser un break de la rutina, como una adiccion que quita mucho tiempo. Lo que tienen en comun todas estas personas es que miran mucho contenido de muchas personas todo el tiempo.
+
+* **Extremo Superior**
+
+![Image alt text](ImagenesRM/prot3.jpg)
+
+Como extremo superior ya nos encontramos con gente profesional de la industria.
+
+Les **gusta** encontrar nuevos talentos o aportes para su trabajo. Les gusta el reconocimieto y estar posicionados como fotografos de alta gama. Tambien les gusta compartir sus conocimientos en ciertas ocaciones.
+
+**Sienten** realizacion por donde estan y lo que han logrado. Todo fotografo profesional es fruto de mucho esfuerzo. 
+
+**Hacen** todo tipo de fotografias. En algunos casos crean estudios profesionales, invierten en excelente equipo, buena iluminacion, los mejores programas. Hacen cursos para tener mas fuentes de ingreso.
+
+
+
 
 **3. Antecedentes. Lo que ya existe parecido.**
 
