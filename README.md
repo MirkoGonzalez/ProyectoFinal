@@ -49,7 +49,22 @@ Les **gusta** encontrar nuevos talentos o aportes para su trabajo. Les gusta el 
 
 **3. Antecedentes. Lo que ya existe parecido.**
 
-Con el boom de la tecnologia, la fotografia se pudo masificar mas y mas. Hoy en dia es muy comun ver a miles de fotografos a lo largo de todo el mundo, compartiendo sus procesos. Gracias al internet y a todo el desarrollo que existe, cada vez es mas facil crear un portafolio propio, es por esto que no me fue dificil encontrar antecedentes.
+
+* [Red Bull Content Pool](https://www.redbullcontentpool.com/premium/photography/projects)
+
+![Image alt text](ImagenesRM/ant1.png)
+
+* [SURFER](https://www.surfer.com/features/the-20-best-surf-photos-from-2019/)
+
+![Image alt text](ImagenesRM/ant2.png)
+
+* [Jimmy Chin](https://jimmychin.com/)
+
+![Image alt text](ImagenesRM/ant3.png)
+
+* [Tommy Pierucki](https://www.pineapplesunrise.com/)
+
+![Image alt text](ImagenesRM/ant4.png)
 
 * [Alex Visbal](https://www.alexvisbal.com/portfolio)
 
