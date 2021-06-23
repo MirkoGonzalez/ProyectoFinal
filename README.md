@@ -50,11 +50,13 @@ Les **gusta** encontrar nuevos talentos o aportes para su trabajo. Les gusta el 
 **3. Antecedentes. Lo que ya existe parecido.**
 
 
-* [Red Bull Content Pool](https://www.redbullcontentpool.com/premium/photography/projects)
+* [Red Bull Content Pool](https://www.redbullcontentpool.com/premium/photography/best-of)
 
 ![Image alt text](ImagenesRM/ant1.png)
 
 Me encanta todo el proyecto que tiene Red Bull con la media y la plataforma para compartir contenido de deportes extremos. Siento que lo hace como ningun otro, y eso se ve representado en la calidad de pagina que tiene, atletas y fotografos. 
+
+Su pagina me gusta por como presenta la diversidad de proyectos que tiene, y por las descripciones que tienen estos. Comparten el proceso y la imagenn, no solo el resultado. 
 
 * [SURFER](https://www.surfer.com/features/the-20-best-surf-photos-from-2019/)
 
@@ -62,17 +64,23 @@ Me encanta todo el proyecto que tiene Red Bull con la media y la plataforma para
 
 Surfer es un clasico para cualquier persona que sienta interes en el surf. Llevan años en la industria y siempre estan atentos con las ultimas marejadas. Esta pagina destaca por tener las mejores olas de todo el mundo.
 
+Al ser una revista, la pagina cuenta con muchisimas historias. Me gusta el detras de escenas que tienen las fotografias que publican. 
+
 * [Jimmy Chin](https://jimmychin.com/)
 
 ![Image alt text](ImagenesRM/ant3.png)
 
 Jimmy Chin fue uno de los protagonistas en el documental *"FreeSolo"*, donde un escalador llego a la cima de "El Cap" sin cuerdas. Tiene un peso grande en la industria y su pagina demuestra la calidad de creador que es. Practica varios deportes y tiene mucho conocimiento de como lograr buenas tomas entodos estos. 
 
+Su pagina tiene una portada increible. La divide en tres y tiene mucho movimiento. Es moderna y se ve profesional.
+
 * [Tommy Pierucki](https://www.pineapplesunrise.com/)
 
 ![Image alt text](ImagenesRM/ant4.png)
 
-A este fotografo lo encontre hace poco en Instagram, y tiene un estilo suave con colores agradables que no habia visto. Me encanta la armonia y la simpleza de su trabajo. 
+A este fotografo lo encontre hace poco en Instagram, y tiene un estilo suave con colores agradables que no habia visto. Me encanta la armonia y la simpleza de su trabajo.
+
+Su pagina es interesante. Destaca que apenas abres el link, te encuentras con sus mayores logros. Nos muestra portadas de paginas reconocidads y luego su trabajo. Es simple pero atractivo.
 
 * [Ben Thouard](https://www.benthouard.com/)
 
@@ -80,9 +88,7 @@ A este fotografo lo encontre hace poco en Instagram, y tiene un estilo suave con
 
 A este fotografo lo conoci en un documental hace unos años. Tiene mucho talento a la hora de tomar imagenes bajo el agua. Su trabajo es muy destacable y la presentacion de su pagina web tambien. 
 
-* [Ben Thouard](https://www.benthouard.com/)
-
-![Image alt text](ImagenesRM/ant.png)
+Me gusta su inicio de pagina. La pantalla se llena de una sola foto, la cual va pasando con el tiempo. Te permite analizar los detalles de su trabajo.
 
 
 
@@ -95,4 +101,7 @@ Resumire lo anteriormente dicho en un collage.
 ![Image alt text](ImagenesRM/collage.png)
 
 Todas las imagenes las tome yo. Muestran un poco lo que es mi estilo de vida, y ojala poder plasmar eso en un proyecto de pagina. 
+
 Como podemos ver, hay tomas de amigos practicando deporte, y tambien de naturaleza al desnudo. Quiero combinar este tipo de fotografia para crear una pagina agradable a la vista y que cree mucho engagement. 
+
+En resumen, lo que me inspira son las vibras que dan estos deportes. Uno se siente parte de algo, parte de una comunidad que no tiene fronteras. Estas comunidades que se forman al rededor de estos deportes eliminan todas las fronteras sociales que experimentamos dia a dia. No importa tu genero, tu edad, tu clase social, tu nacionalidad, tu piel, nada. Solo importa la pasion por los deportes y la naturaleza. Eso quiero generar con mi pagina. 
