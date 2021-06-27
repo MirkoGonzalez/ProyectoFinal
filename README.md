@@ -98,7 +98,7 @@ Gran parte de mi inspiracion esta dada por la naturaleza y los deportes. Ya llev
 
 Resumire lo anteriormente dicho en un collage. 
 
-![Image alt text](ImagenesRM/collage.png)
+![Image alt text](ImagenesRM/collage.jpg)
 
 Todas las imagenes las tome yo. Muestran un poco lo que es mi estilo de vida, y ojala poder plasmar eso en un proyecto de pagina. 
 
