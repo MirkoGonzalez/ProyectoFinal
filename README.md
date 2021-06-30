@@ -10,7 +10,7 @@ Actualmente utilizo las redes sociales para compartir mi trabajo. Por lo tanto, 
 
 * **Usuario Medio**
 
-![Image alt text](ImagenesRM/prot1.jpg)
+![Image alt text](ImagenesRM/prot1.gif)
 
 Como el usuario medio nos encontramos con aficionados a la fotografia con presencia en redes sociales. Suelen estar en una etapa de encontrar su "camino", generalmente con 4to medio ya hecho. El rango etario puede ir desde los 18 años a los 30 en adelante.
 
@@ -34,7 +34,7 @@ Pueden **hacer** de todo, como hacer nada. Las redes sociales pueden ser un brea
 
 * **Extremo Superior**
 
-![Image alt text](ImagenesRM/prot2.jpg)
+![Image alt text](ImagenesRM/proto2.jpg)
 
 Como extremo superior ya nos encontramos con gente profesional de la industria.
 
