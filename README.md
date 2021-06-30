@@ -52,7 +52,7 @@ Les **gusta** encontrar nuevos talentos o aportes para su trabajo. Les gusta el 
 
 * [Red Bull Content Pool](https://www.redbullcontentpool.com/premium/photography/best-of)
 
-![Image alt text](ImagenesRM/ant1.png)
+![Image alt text](ImagenesRM/ant1.jpg)
 
 Me encanta todo el proyecto que tiene Red Bull con la media y la plataforma para compartir contenido de deportes extremos. Siento que lo hace como ningun otro, y eso se ve representado en la calidad de pagina que tiene, atletas y fotografos. 
 
@@ -60,7 +60,7 @@ Su pagina me gusta por como presenta la diversidad de proyectos que tiene, y por
 
 * [SURFER](https://www.surfer.com/features/the-20-best-surf-photos-from-2019/)
 
-![Image alt text](ImagenesRM/ant2.png)
+![Image alt text](ImagenesRM/ant2.jpg)
 
 Surfer es un clasico para cualquier persona que sienta interes en el surf. Llevan años en la industria y siempre estan atentos con las ultimas marejadas. Esta pagina destaca por tener las mejores olas de todo el mundo.
 
@@ -68,7 +68,7 @@ Al ser una revista, la pagina cuenta con muchisimas historias. Me gusta el detra
 
 * [Jimmy Chin](https://jimmychin.com/)
 
-![Image alt text](ImagenesRM/ant3.png)
+![Image alt text](ImagenesRM/ant3.jpg)
 
 Jimmy Chin fue uno de los protagonistas en el documental *"FreeSolo"*, donde un escalador llego a la cima de "El Cap" sin cuerdas. Tiene un peso grande en la industria y su pagina demuestra la calidad de creador que es. Practica varios deportes y tiene mucho conocimiento de como lograr buenas tomas entodos estos. 
 
@@ -76,7 +76,7 @@ Su pagina tiene una portada increible. La divide en tres y tiene mucho movimient
 
 * [Tommy Pierucki](https://www.pineapplesunrise.com/)
 
-![Image alt text](ImagenesRM/ant4.png)
+![Image alt text](ImagenesRM/ant4.jpg)
 
 A este fotografo lo encontre hace poco en Instagram, y tiene un estilo suave con colores agradables que no habia visto. Me encanta la armonia y la simpleza de su trabajo.
 
@@ -84,7 +84,7 @@ Su pagina es interesante. Destaca que apenas abres el link, te encuentras con su
 
 * [Ben Thouard](https://www.benthouard.com/)
 
-![Image alt text](ImagenesRM/ant5.png)
+![Image alt text](ImagenesRM/ant5.jpg)
 
 A este fotografo lo conoci en un documental hace unos años. Tiene mucho talento a la hora de tomar imagenes bajo el agua. Su trabajo es muy destacable y la presentacion de su pagina web tambien. 
 
